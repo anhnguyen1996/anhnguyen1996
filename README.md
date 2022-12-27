@@ -15,5 +15,15 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=anhnguyen1996&show_icons=true&theme=transparent)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anhnguyen1996&layout=compact)
+<h1 align="center">Hi 👋, I'm Anh Nguyen Vu Tuan</h1>
+<p align="left"> 
+  <img src="https://komarev.com/ghpvc/?username=anhnguyen1996&label=Profile%20views&color=0e75b6&style=flat" alt="anhnguyen1996" />
+</p>
+
+<p align="center">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=anhnguyen1996&show_icons=true&locale=en&layout=compact" alt="anhnguyen1996" />
+</p>
+
+<p align="center">
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=anhnguyen1996&show_icons=true&locale=en" alt="anhnguyen1996" />
+</p>
