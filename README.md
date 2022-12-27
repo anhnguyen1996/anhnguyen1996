@@ -16,6 +16,13 @@ Here are some ideas to get you started:
 -->
 
 <h1 align="center">Hi 👋, I'm Anh Nguyen Vu Tuan</h1>
+
+- 🌱 I’m currently learning **JS, PHP, Golang, Typescript ...**
+
+- 📫 How to reach me **ngvutuananh1996@gmail.com**
+
+- 🤔 [**My Secret**](https://www.youtube.com/watch?v=dQw4w9WgXcQ)
+
 <p align="left"> 
   <img src="https://komarev.com/ghpvc/?username=anhnguyen1996&label=Profile%20views&color=0e75b6&style=flat" alt="anhnguyen1996" />
 </p>
