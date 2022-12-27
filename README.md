@@ -23,7 +23,7 @@ Here are some ideas to get you started:
 
 - 📫 How to reach me **ngvutuananh1996@gmail.com**
 
-- 🤔 [**My Secret**](https://www.youtube.com/watch?v=dQw4w9WgXcQ)
+- 🤔 [**My Secret**](https://soundcloud.com/rick-astley-official/never-gonna-give-you-up-4?utm_source=clipboard&utm_medium=text&utm_campaign=social_sharing)
 
 
 
